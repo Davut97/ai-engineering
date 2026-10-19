@@ -25,12 +25,12 @@ Copy the template below for each week, newest at the top. Fill it in on Sunday.
 
 ### Week 0 (Oct 13 to Oct 18): setup
 - Planned:
-  - [ ] API accounts with at least two model providers (e.g. Anthropic, OpenAI, Google Gemini)
-  - [ ] Ollama installed, one open-weight model running locally (Llama, Qwen, Mistral or DeepSeek)
-  - [ ] Karpathy, "Intro to Large Language Models" watched, notes in `notes/llm-basics.md`
-  - [ ] This folder pushed to a public GitHub repo
+  - [x] API accounts with at least two model providers (e.g. Anthropic, OpenAI, Google Gemini)
+  - [x] Ollama installed, one open-weight model running locally (llama3.2, called via the HTTP API)
+  - [x] Karpathy, "Intro to Large Language Models" watched (Oct 19), concept notes written in `notes/llm-basics.md`
+  - [x] This folder pushed to a public GitHub repo (github.com/Davut97/ai-engineering)
   - [ ] roadmap.sh/ai-engineer skimmed, topics I don't recognise listed in `notes/unknowns.md`
-- Done:
+- Done: GitHub repo live, API keys set in .env, Ollama running llama3.2 and called over HTTP (Oct 13). Karpathy video watched (Oct 19)
 - Hours:
 - Confusing / blocked:
 - Next week:
