@@ -5,3 +5,6 @@ Add anything from roadmap.sh, courses or job posts that I can't explain yet. Tic
 - [x] what does 70b parameters mean? 
 - [x] what is open weights? 
 - [x] lossy compression
+- [ ] Zero Shot Prompting
+- [ ] top k
+- [ ] top p
